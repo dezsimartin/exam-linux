@@ -1,0 +1,25 @@
+1. feladat
+POSIX: Portable Operating System Interface for unix
+
+2.feladat 
+X11: megjelenítésért felelős protokoll
+
+3. feladat
+stdin: standard input, pl keyboard
+stdout: standard output, pl monitor
+
+4.feladat
+daemon: háttérben futó folyamatok, észrevétlenek is lehetnek
+
+5. feladat
+bin: rendszerfájlok
+etc: config fájlok
+usr: telepitett programok főképp
+home: user-ek 
+
+6. feladat
+A ponttal kezdődő fájlok, mappák rejtett fájlokat, mappákat jelölnek.
+
+7. feladat
+relativ: /home/ejay/Flow 
+abszolut: ../Flow

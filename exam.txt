@@ -1,3 +1,6 @@
+Bocsi, a repot még a 15. feladat előtt létrehoztam, úgy értelmeztem, ezért
+nem csak a zsh_history van benne, illetve a neve is exam-linux.
+
 1. feladat
 POSIX: Portable Operating System Interface for unix
 
